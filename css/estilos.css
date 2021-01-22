@@ -7,13 +7,16 @@ body {
 }
 #container {
   width: 70%;
-  padding: 1em;
   text-align: left;
   border: 1px solid #ddd;
   margin: 0 auto;
 }
 #container h1 {
   font-size: 20px;
+}
+
+#post {
+  padding: 20px;
 }
 
 #cabecera {
@@ -29,4 +32,12 @@ body {
   padding: 0 0 0 1em;
   font-weight: normal;
   font-size: 0.8em;
+}
+
+#footer {
+  background-color: gray;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
 }
