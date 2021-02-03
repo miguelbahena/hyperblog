@@ -6,3 +6,5 @@
 - Trucos muy locos del profesor
 - Las personalides multiples de Freddy
 - Creadro por el increible Platyzi Team
+
+* Incluye ejemplo en windows, linux y mac
